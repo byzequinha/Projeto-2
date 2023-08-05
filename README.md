@@ -4,3 +4,4 @@ Desenvolvido com: <br>
 - HTML <br>
 - CSS  <br>
 <br>
+<img src="https://github.com/byzequinha/Projeto-2/blob/main/assets/responsivo%20Via%20Shopping.png?raw=true">
